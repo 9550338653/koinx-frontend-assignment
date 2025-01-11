@@ -1,0 +1,29 @@
+.tcsymbol{
+    height:20px;
+    width:20px;
+    border-radius:50px;
+    margin:5px;
+}
+li{
+    list-style-type:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    margin:0px;
+};
+.para1{
+    font-size:15px;
+}
+.coin-con{
+    display:flex;
+    margin-left:10%;
+}
+.coin-price{
+    background-color: #72dadd;
+    border-radius:5px;
+    color:rgb(12, 8, 248);
+    margin-left:10%;
+    padding:5px;
+    text-align: end;
+}

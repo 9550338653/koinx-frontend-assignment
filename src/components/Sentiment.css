@@ -1,0 +1,47 @@
+.slick-arrow {
+    display: none; /* Default arrows hidden */
+  }
+  
+  .slick-prev,
+  .slick-next {
+    z-index: 1000;
+  }
+  
+  .slick-slide div {
+    outline: none; /* Removes blue outline on click */
+  }
+.carousel-section{
+    width:70%;
+    
+}  
+.sentiment-section{
+    padding:20px;
+    background-color: white;
+    width:68%;
+    margin:10px;
+    border-radius:10px;
+
+}
+.analyst-section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.ranking-image{
+    width:500px;
+    height:auto;
+}
+
+
+.percentage-element{
+    background-color: rgba(74, 231, 95, 0.432);
+    border-radius:50px;
+    color:teal;
+    padding:10px;
+    height:80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:80px;
+
+}

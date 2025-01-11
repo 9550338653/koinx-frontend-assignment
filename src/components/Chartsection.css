@@ -1,0 +1,101 @@
+.main-container1{
+    height:auto;
+    display: flex;
+    flex-direction: row; 
+
+
+}
+.chart-section{
+    padding:10px;
+
+}
+.bitlogo{
+    display: flex;
+    flex-direction: row;
+}
+.Analysis-section{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width:70%;
+    text-align: center;
+    background-color: white;
+
+    box-shadow: 5px 5px 5px 5px rgba(82, 69, 69, 0.11);
+    border-radius:10px;
+    padding:10px;
+}
+
+.rank{
+    background-color: rgba(0, 0, 0, 0.63);
+    color:white;
+    border-radius: 5px;
+    margin:5px;
+    text-align: center;
+    height:30px;
+    margin-left:10%;
+    padding:5px;
+}
+.btc{
+    margin:10px;
+}
+.Analysis-section img{
+    height:30px;
+    width:30px;
+    margin:10px;
+}
+
+.trading-widget-container{
+    width:100%;
+    margin-top:10px;
+}
+.line{
+    color:rgba(0, 0, 0, 0.151)
+}
+
+.getstarted-section{
+    display:flex;
+    flex-direction: column;
+    background-color: rgba(0, 60, 255, 0.973);
+    color:white;
+    text-align: center;
+    padding:20px;
+    border-radius:20px;
+    
+    margin-left:20px;
+    margin-right:20px;
+    justify-content: center;
+    align-items: center;
+}
+.getstarted-section img{
+    height: 150px;
+    margin:10px;
+    
+}
+.getStartedButton{
+    background-color: white;
+    color:black;
+    margin-top:10px;
+    padding:10px;
+
+}
+.arrow-ele{
+    margin-left:20px;
+}
+.cards-container{
+    display: flex;
+    flex-direction: column;
+    width:25%;
+}
+.trendcoins{
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.075);
+    background-color: white;
+
+    border-radius:30px;
+    margin-left:20px;
+    margin-right:20px;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+    padding:20px;
+}

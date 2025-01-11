@@ -1,0 +1,58 @@
+.main-container2{
+    width:68%;
+    margin-top:20px;
+    padding: 20px;
+    margin:10px;
+    border-radius:10px;
+    background-color: white;
+
+}
+.list-section{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+}
+.performance-section{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+
+
+}
+.performance-fundamentals-section{
+    display: flex;
+    flex-direction: column;
+
+}
+.weeks-section{
+    display: flex;
+    flex-direction: column;
+    
+}
+.rating-line{
+    margin:30px;
+    height:10px;
+    background-image: linear-gradient(to right,red,orange,green);
+    width:100%;
+    border-radius:5px;
+}
+.fundamentals-section{
+    display:flex;
+    flex-direction: row;
+
+}
+.fundamentals-section-1{
+    display:flex;
+    flex-direction: column;
+    margin:20px;
+    width:50%;
+}
+.dollars{
+    font-weight:bold;
+}
+.element{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin:0px;
+}

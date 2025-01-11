@@ -1,0 +1,26 @@
+.header-section{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding:10px;
+    box-shadow: 3px 3px 3px 3px rgba(206, 203, 203, 0.781);
+    padding-left:40px;
+    padding-right:40px;
+    background-color: white;
+
+}
+img{
+    height:30px;
+    width:150px;
+}
+.nav-elements a{
+    padding:10px;
+    margin:5px;
+}
+button{
+    background-color: rgba(47, 0, 255, 0.993);
+    color:#fff;
+    border:0px;
+    padding:10px;
+    border-radius:10px;
+}

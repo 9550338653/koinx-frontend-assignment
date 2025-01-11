@@ -1,0 +1,46 @@
+.about-container{
+    width:68%;
+    padding:20px;
+    background-color: white;
+    margin:10px;
+    border-radius:10px;
+}
+.bit-cards{
+    display:flex;
+    flex-direction: row;
+}
+.bit-card{
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right,rgba(6, 248, 248, 0.466),rgba(0, 102, 255, 0.397));
+    border-radius:10px;
+    margin:10px;
+}
+.bit-card2{
+    padding:10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right,rgb(255, 81, 0),rgba(255, 72, 0, 0.555));
+    border-radius:10px;
+    margin:10px;
+
+}
+.bit-content{
+    display:flex;
+    flex-direction: column;
+}
+.hand-image{
+    width:100px;
+    height:auto;
+    margin:10px;
+}
+.checknowbutton{
+    background-color: white;
+    color:black;
+    width:120px;
+}
