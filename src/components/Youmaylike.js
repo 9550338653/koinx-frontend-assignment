@@ -66,7 +66,7 @@ const Youmaylike = () => {
   }
 
   return (
-    <div className="sentiment-section">
+    <div className="youmaylike-section">
       <h2>You May also like</h2>
       <p>Check out the most trending cryptocurrencies!</p>
 
