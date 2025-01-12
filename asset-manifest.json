@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/koinx-frontend-assignment/static/css/main.351e564e.css",
+    "main.js": "/koinx-frontend-assignment/static/js/main.a0af5ee5.js",
+    "static/js/151.d743cbc3.chunk.js": "/koinx-frontend-assignment/static/js/151.d743cbc3.chunk.js",
+    "static/media/slick.svg": "/koinx-frontend-assignment/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/koinx-frontend-assignment/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/koinx-frontend-assignment/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/koinx-frontend-assignment/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/koinx-frontend-assignment/index.html",
+    "main.351e564e.css.map": "/koinx-frontend-assignment/static/css/main.351e564e.css.map",
+    "main.a0af5ee5.js.map": "/koinx-frontend-assignment/static/js/main.a0af5ee5.js.map",
+    "151.d743cbc3.chunk.js.map": "/koinx-frontend-assignment/static/js/151.d743cbc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351e564e.css",
+    "static/js/main.a0af5ee5.js"
+  ]
+}
